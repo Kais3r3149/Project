@@ -1,5 +1,2 @@
 DONG B - v1
-<<<<<<< HEAD
 
-=======
->>>>>>> feature-B
