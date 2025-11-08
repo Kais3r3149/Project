@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello from feature-1
+=======
+Hello from feature-2
+>>>>>>> feature-2
