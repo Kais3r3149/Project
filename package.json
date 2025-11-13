@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --coverage",
-    "build": "echo \"No build step\" && exit 0"
+    "test": "node ./node_modules/jest/bin/jest.js --coverage",
+    "build": "echo \"No build step\""
   },
   "repository": {
     "type": "git",
